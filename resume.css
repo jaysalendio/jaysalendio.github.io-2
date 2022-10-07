@@ -11,10 +11,10 @@
 */
 
 
-.msg { padding: 10px; background: rgb(124, 2, 2); position: relative; }
+.msg { padding: 10px; background: #222; position: relative; }
 .msg h1 { color: #fff;  }
-.msg a { margin-left: 20px; background: #770c69; color: white; padding: 4px 8px; text-decoration: none; }
-.msg a:hover { background: #630370; }
+.msg a { margin-left: 20px; background: #408814; color: white; padding: 4px 8px; text-decoration: none; }
+.msg a:hover { background: #266400; }
 
 /* //-- yui-grids style overrides -- */
 body { font-family: Georgia; color: #444; }
