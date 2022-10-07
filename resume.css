@@ -13,7 +13,7 @@
 
 .msg { padding: 10px; background: rgb(124, 2, 2); position: relative; }
 .msg h1 { color: #fff;  }
-.msg a { margin-left: 20px; background: #881478; color: white; padding: 4px 8px; text-decoration: none; }
+.msg a { margin-left: 20px; background: #770c69; color: white; padding: 4px 8px; text-decoration: none; }
 .msg a:hover { background: #740383; }
 
 /* //-- yui-grids style overrides -- */
