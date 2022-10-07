@@ -15,9 +15,6 @@
 .msg h1 { color: #fff;  }
 .msg a { margin-left: 20px; background: #770c69; color: white; padding: 4px 8px; text-decoration: none; }
 .msg a:hover { background: #630370; }
-p.one {
-    border-style: solid;
-    border-width: 5px;
 
 /* //-- yui-grids style overrides -- */
 body { font-family: Georgia; color: #444; }
